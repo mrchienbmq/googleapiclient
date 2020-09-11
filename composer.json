@@ -7,8 +7,8 @@
     "license": "Apache-2.0",
     "require": {
         "php": ">=5.4",
-        "nb_google/auth": "^1.10",
-        "nb_google/apiclient-services": "~0.13",
+        "nb_google/auth": "dev-master",
+        "nb_google/apiclient-services": "dev-master",
         "phpseclib/phpseclib": "~0.3.10||~2.0",
         "guzzlehttp/guzzle": "~5.3.1||~6.0||~7.0",
         "guzzlehttp/psr7": "^1.2"
